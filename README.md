@@ -8,7 +8,7 @@ A simple system application for face extraction and recognition using machine le
 
 
 # Why use it?
-For normal system face verification this simple system application will be very easy to use.
+For normal system face verification this simple system application will be very easy to use
 
 # Features
 * Less complex code.
