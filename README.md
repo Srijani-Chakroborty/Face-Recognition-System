@@ -4,7 +4,7 @@
 
 A simple system application for face extraction and recognition using machine learning concepts and python libraries. This system application is very easy to use and also easy to understand whether a face is recognized or not. We have used green and red frames to let users understand that green box is for 'face is succesfully recognized' and red box is for 'face is not recognized', and also if the face is covered or not visible then it will show that 'face is not detected'.
 
-# Screenshot
+# Screenshots
 Face is recognized, so it is unlocked.
 ![Screenshot (155)](https://user-images.githubusercontent.com/85583566/156235933-c4eb7529-106f-48be-b1c9-95a8491a2985.png)
 
